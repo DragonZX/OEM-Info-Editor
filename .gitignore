@@ -1,7 +1,7 @@
 ~
 build/
 [Bb]in
-
+.idea/*
 [Dd]ebug*/
 obj/
 [Rr]elease*/
