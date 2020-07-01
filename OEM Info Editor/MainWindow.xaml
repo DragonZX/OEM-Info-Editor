@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:OEM_Info_Editor"
         mc:Ignorable="d"
-        Title="OEM Info Editor" Height="280" Width="525" ResizeMode="NoResize" Icon="oeminfoeditorlogo.ico">
+        Title="OEM Info Editor" Height="280" Width="525" ResizeMode="NoResize" Icon="oemicon.ico">
     <Window.Background>
         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
             <GradientStop Color="#FFDEDEDE" Offset="0.471"/>
